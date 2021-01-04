@@ -21,6 +21,9 @@ print('row 수 : {}, col 수 : {}'.format(dummy_data.shape[0], dummy_data.shape[
 - data preprocessing
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeuomPK%2FbtqBc5tcPjs%2FvBkkMwkvrKkoYusDDwPNm1%2Fimg.png" width="800">
 Remove Nan Causes losing lots of informations , so Drop New_Price Column, Unnamed:0 Column 
+
+<br>
+<br>
 <br>
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKJjqy%2FbtqBdTTBPX6%2Fcs1XTVNalKVT0Gzd83ryMK%2Fimg.png" width="800">
@@ -30,6 +33,7 @@ Remove Nan Causes losing lots of informations , so Drop New_Price Column, Unname
 - Generate 79 Columns
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F6qa5E%2FbtqBeJCYkPY%2FyJIueMFr1XBuKjgmid9h4K%2Fimg.png" width="800">
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FKaUAg%2FbtqBeKIHHe3%2FWA8KnodT5MEEqDz8EK5pnK%2Fimg.png" width="800">
+<br>
 
 - Remove Outlier
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb5N7MM%2FbtqBgdpASTr%2FLqgd7RWwn9QNWcUDRRDkik%2Fimg.png" width="800">
